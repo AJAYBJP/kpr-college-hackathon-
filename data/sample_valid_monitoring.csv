@@ -1,0 +1,6 @@
+cow_id,observed_at,morning_milk_yield_litres,evening_milk_yield_litres,SCC_cells_per_ml,CMT_result,electrical_conductivity,milk_appearance
+cow_tn_che_01,2026-10-15 06:00:00,10.2,7.8,110000,Negative (0),4.8,Normal
+cow_tn_che_02,2026-10-15 06:00:00,9.5,7.0,140000,Negative (0),5.0,Normal
+cow_tn_che_03,2026-10-15 06:00:00,8.0,6.0,480000,Weak Positive (1),6.2,Normal
+cow_tn_che_04,2026-10-15 06:00:00,11.0,8.2,95000,Negative (0),4.9,Normal
+cow_tn_che_05,2026-10-15 06:00:00,6.0,4.5,1850000,Distinct Positive (2),7.2,Flakes/Clots Present

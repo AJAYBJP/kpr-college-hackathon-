@@ -1,0 +1,6 @@
+{
+  "name": "UdderWatch AI — Early Warning for Healthier Herds",
+  "description": "Data-driven decision-support and early-screening system for silent mastitis outbreaks in peri-urban dairy herds, integrating milk quality, environmental context, explainable ML alerts, and financial impact analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
